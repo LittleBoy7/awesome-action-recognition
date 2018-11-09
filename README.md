@@ -66,7 +66,7 @@ A curated list of action recognition and related area (e.g. object recognition, 
 * [Fast Action Proposals for Human Action Detection and Search](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Yu_Fast_Action_Proposals_2015_CVPR_paper.pdf) - G. Yu and J. Yuan, CVPR2015. Note: code for FAP is NOT available online. Note: Aka FAP.
 * [Bag-of-fragments: Selecting and encoding video fragments for event detection and recounting](https://staff.fnwi.uva.nl/t.e.j.mensink/publications/mettes15icmr.pdf) - P. Mettes et al, ICMR2015.
 * [Action localization in videos through context walk](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Soomro_Action_Localization_in_ICCV_2015_paper.pdf) - K. Soomro et al, ICCV2015.
-Transitional Action Recognition for Human Action Prediction(http://www.hirokatsukataoka.net/research/transitionalactionrecognition/transitionalactionrecognition.html)-Hirokatsu KATAOKA,BMVC 2016
+*[Transitional Action Recognition for Human Action Prediction](http://www.bmva.org/bmvc/2016/papers/paper012/paper012.pdf)-Hirokatsu KATAOKA,BMVC 2016
 
 ### Spatio-Temporal Action Detection
 * [A Better Baseline for AVA](https://arxiv.org/pdf/1807.10066.pdf) - R. Girdhar et al., ActivityNet Workshop, CVPR2018. 
